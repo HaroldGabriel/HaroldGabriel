@@ -16,6 +16,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HaroldGabriel&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+**Proyectos destacados:**
+- 🔧 [Sistema de Gestión Panadería](https://github.com/HaroldGabriel/sistema-panaderia)
+  
 [![](https://visitcount.itsvg.in/api?id=HaroldGabriel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
