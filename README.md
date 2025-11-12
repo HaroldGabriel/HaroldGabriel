@@ -17,7 +17,7 @@
 
 ---
 **Proyectos destacados:**
-- 🔧 [Sistema de Gestión Panadería](https://github.com/HaroldGabriel/sistema-panaderia)
+- 🔧 [Sistema de Gestión Panadería]([https://github.com/HaroldGabriel/sistema-panaderia](https://github.com/HaroldGabriel/Sistema-de-Gestion-Panaderia))
   
 [![](https://visitcount.itsvg.in/api?id=HaroldGabriel&icon=0&color=0)](https://visitcount.itsvg.in)
 
